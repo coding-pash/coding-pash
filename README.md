@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coding-pash
 - 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning HTML, CSS and JavaScript - utilising my Covid-19 lockdown and will continue further afterwards as well 
+- 🌱 I’m currently learning HTML, CSS and JavaScript - utilising my Covid-19 lockdown and will continue further
 - 💞️ I’m looking to collaborate once I fully familirise myself with GitHub
 - 📫 for any recommendations and suggestions, please reach me at pashupati.joshi@gmail.com
 
